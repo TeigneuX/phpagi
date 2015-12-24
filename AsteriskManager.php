@@ -1,5 +1,5 @@
 <?php
-namespace gietos;
+namespace teigneux;
  /**
   * phpagi-asmanager.php : PHP Asterisk Manager functions
   * @see https://github.com/welltime/phpagi

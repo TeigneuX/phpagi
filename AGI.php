@@ -1,6 +1,6 @@
 <?php
 
-namespace gietos;
+namespace teigneux;
 
 /**
 * phpagi.php : PHP AGI Functions for Asterisk
